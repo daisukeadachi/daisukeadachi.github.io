@@ -1,3 +1,3 @@
 ## Welcome!
 
-<img src="03- Daisuke Adachi.jpg" style="zoom:50%;" />
+I am a Ph.D candidate at Yale University, Department of Economics.
