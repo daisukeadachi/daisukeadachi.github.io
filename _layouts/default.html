@@ -19,7 +19,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.email %}
-          <a href="mailto:{{site.email}}">{{site.email}}</a>
+          <p>Contact: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
         {% endif %}        
 
         {% if site.logo %}
