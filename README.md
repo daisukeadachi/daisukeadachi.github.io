@@ -2,5 +2,5 @@
 
 CV
 
-[Research](./papers.html)
+[Research](./research.html)
 
