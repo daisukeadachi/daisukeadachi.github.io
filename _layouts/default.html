@@ -18,11 +18,11 @@
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <a href="mailto:daisuke.adachi@yale.edu">daisuke.adachi@yale.edu</a>
+        {% endif %}        
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <a href="mailto:daisuke.adachi@yale.edu">daisuke.adachi@yale.edu</a>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
