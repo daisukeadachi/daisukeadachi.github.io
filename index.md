@@ -6,3 +6,6 @@ I will be available for interviews at the 2020 ASSA meetings.
 
 Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu)
 
+CV
+
+[Research](./research.html)
