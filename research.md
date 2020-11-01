@@ -7,7 +7,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Research
 
-- [Trade, Dynamics, and Occupations:The Distributional and Aggregate Effects of Robots](./assets/papers/draft_latest_dropthiswhenready.pdf). *Job Market Paper*. Coming soon!
+- Trade, Dynamics, and Occupations: The Distributional and Aggregate Effects of Robots. *Job Market Paper*. Coming soon!
 
 
 
