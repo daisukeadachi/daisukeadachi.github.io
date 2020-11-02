@@ -16,7 +16,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
   
 
-- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_201031.pdf) (with Yukiko U. Saito)
+- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito)
 
   
 
