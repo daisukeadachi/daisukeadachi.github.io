@@ -20,7 +20,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
   
   
-- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Yukiko U. Saito)
+- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). *Under review*
 
   
 
