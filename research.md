@@ -7,7 +7,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Research
 
-- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_latest.pdf). *Job Market Paper*.
+- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper*.
 
 
 
