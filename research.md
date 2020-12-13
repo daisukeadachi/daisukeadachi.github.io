@@ -2,6 +2,7 @@
 layout: default
 title: Research
 description: Published Papers, Working Papers, and Works on Progress
+text-align: justify
 ---
 
 ## Research
