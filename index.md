@@ -12,7 +12,7 @@ Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu)
 
 [CV](assets/Daisuke_Adachi_CV_latest.pdf) (Last update on Dec. 13)
 
-### [Research](./research.html)
+## [Research](./research.html)
 
 - [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper*.
 
@@ -30,3 +30,4 @@ Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu)
 - [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). *Under review*.
 
   
+
