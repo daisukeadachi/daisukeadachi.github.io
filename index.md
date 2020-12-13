@@ -23,7 +23,7 @@ Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu)
 
   
 
-- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). *Under review*.
+- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
 
   
 
