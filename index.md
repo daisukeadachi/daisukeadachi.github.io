@@ -19,14 +19,14 @@ Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu)
 
 
 
-- [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Revision requested at Journal of Labor Economics*
+- [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Revision requested at Journal of Labor Economics*.
 
   
 
-- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). *Under review*
+- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). *Under review*.
 
   
 
-- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). *Under review*
+- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). *Under review*.
 
   
