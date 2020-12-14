@@ -18,7 +18,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 
 
-### [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
+### [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). *Under review*.
 
 <p align="justify">We investigate the impact of multinational enterprises (MNEs) on the
 labor share in the source country. We propose an equilibrium model
