@@ -10,7 +10,7 @@ description: Daisuke Adachi's website
 
 Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu)
 
-[CV](assets/Daisuke_Adachi_CV_latest.pdf) (Last update on Dec. 13)
+[CV](assets/Daisuke_Adachi_CV_latest.pdf) (Last update on Dec. 19)
 
 ## [Research](./research.html)
 
