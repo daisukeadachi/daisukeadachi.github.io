@@ -8,7 +8,7 @@ description: Daisuke Adachi's website
 
 <p align="justify">I will be available for interviews at the 2020-2021 Virtual EEA and AEA Meetings.</p>
 
-Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu)
+Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu) or [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 [CV](assets/Daisuke_Adachi_CV_latest.pdf) (Last update on Dec. 19, 2020)
 
