@@ -6,7 +6,7 @@ description: Daisuke Adachi's website
 
 <p align="justify"> Welcome! I am a Ph.D. candidate in Economics at Yale University. My primary interests are international trade and labor economics. My research focuses on automation, globalization, and employment.</p>
 
-<p align="justify">I will be available for interviews at the 2020-2021 Virtual EEA and AEA Meetings.</p>
+<p align="justify">I will join Aarhus University, Department of Economics and Business Economics, starting this Fall.</p>
 
 Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu) or [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
@@ -23,11 +23,11 @@ Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu) or [daisuke.a
 
   
 
-- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). *Under review*.
+- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
 
   
 
-- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). *Under review*.
+- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito).
 
   
 
