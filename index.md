@@ -6,7 +6,7 @@ description: Daisuke Adachi's website
 
 <p align="justify"> Welcome! I am a Ph.D. candidate in Economics at Yale University. My primary interests are international trade and labor economics. My research focuses on automation, globalization, and employment.</p>
 
-<p align="justify">I will join Aarhus University, Department of Economics and Business Economics, starting this Fall.</p>
+<!--<p align="justify">I will join Aarhus University, Department of Economics and Business Economics, starting this Fall.</p>-->
 
 Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu) or [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
