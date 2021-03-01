@@ -19,7 +19,7 @@ Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu) or [daisuke.a
 
 
 
-- [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Revision requested at Journal of Labor Economics*.
+- [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Revision requested at Journal of Labor Economics*. [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan)
 
   
 
@@ -27,7 +27,7 @@ Contact: [daisuke.adachi@yale.edu](mailto:daisuke.adachi@yale.edu) or [daisuke.a
 
   
 
-- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito).
+- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). [VoxEU](https://voxeu.org/article/commuting-zones-japan)
 
   
 
