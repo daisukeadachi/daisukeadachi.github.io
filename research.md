@@ -14,7 +14,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ### [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Revision requested at Journal of Labor Economics*.
 
-Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan)
+Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)
 
 <p align="justify">We study the impacts of industrial robots on employment in Japan, the country with the longest tradition of robot adoption. We employ a novel data set of robot shipments by destination industry and robot application (specified task) in quantity and unit values. These features allow us to use an identification strategy leveraging the heterogeneous application of robots across industries and heterogeneous price changes across applications. For example, the price drop of welding robots relative to assembling robots induced faster adoption of robots in the automobile industry, which intensively uses welding processes, than in the electric machine industry, which intensively uses assembling process. Our industrial-level and commuting zone-level analyses both indicate that the decline of robot prices increased the number of robots as well as employment, suggesting that robots and labor are grossly complementary in the production process. We compare our estimates with the ones reported by existing studies and propose a mechanism that explains apparent differences between the results.</p>
 
