@@ -1,8 +1,8 @@
-```
+---
 layout: default
 title: Others
 description: Other activities
-```
+---
 
 # Automated cover-letter generator
 
