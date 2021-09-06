@@ -4,7 +4,7 @@ title: Daisuke Adachi
 description: Daisuke Adachi's website
 ---
 
-<p align="justify">I am a post-doc in Aarhus University, Department of Economics and Business Economics. I study international trade and labor economics. My research focuses on automation, globalization, and employment.</p>
+<p align="justify">I am a post-doc in Aarhus University, Department of Economics and Business Economics. I will be an assistant professor in Aarhus University starting in Fall 2022. I study international trade and labor economics. My research focuses on automation, globalization, and employment.</p>
 
 Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
