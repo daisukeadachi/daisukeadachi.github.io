@@ -27,6 +27,10 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 - [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). [[VoxEU](https://voxeu.org/article/commuting-zones-japan)]
 
+<!--
+
 ## [Others](./others.html)
 
 [automated cover-letter generator](https://github.com/daisukeadachi/cover) for academic job market candidates 
+
+-->
