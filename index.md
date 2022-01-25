@@ -17,7 +17,7 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 
 
-- [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Revision requested at Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]
+- [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Revision requested at Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/), [The Economist](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs)]
 
   
 
