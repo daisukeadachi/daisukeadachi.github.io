@@ -5,7 +5,7 @@ description: Daisuke Adachi's website
 
 ---
 
-<p align="justify">I am an assistant professor at Aarhus University, Department of Economics and Business Economics. I study international trade and labor economics. My research focuses on automation, globalization, and employment.</p>
+<p align="justify">I am an assistant professor at Aarhus University, Department of Economics and Business Economics (BSS). I study international trade and labor economics. My research focuses on automation, globalization, and employment.</p>
 
 Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
@@ -27,6 +27,10 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
   
 
 - [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). [[VoxEU](https://voxeu.org/article/commuting-zones-japan)]
+
+# Teaching
+
+- [5522: International Economics](https://sites.google.com/view/5522-internationaltrade) at Aarhus BSS
 
 <!--
 
