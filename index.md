@@ -24,9 +24,6 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 - [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
 
-  
-
-- [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). [[VoxEU](https://voxeu.org/article/commuting-zones-japan)]
 
 ## Teaching
 

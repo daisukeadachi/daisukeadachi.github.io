@@ -43,11 +43,3 @@ employment in foreign subsidiary plants. The estimated factor demand
 elasticities indicate that foreign factor augmentation increased capital
 demand in Japan more than labor demand, suggesting that the foreign
   factor augmentation contributes to reducing the labor share in Japan.</p>
-
-
-### [Commuting Zones in Japan](./assets/papers/commuting_zone_latest.pdf) (with Taiyo Fukai, Daiji Kawaguchi, and Yukiko U. Saito). 
-
-Media Coverage: [VoxEU](https://voxeu.org/article/commuting-zones-japan)
-
-<p align="justify">Choosing a proper geographic unit is crucial for achieving an accurate analysis of local labor markets. While a small administrative unit such as the municipality is not always ideal because workers commute across units to form a single labor market, a large administrative unit such as the prefecture is often too coarse because prefectures typically include several labor markets. To define appropriate local labor markets for Japan, we first constructed commuting zones (CZs) using the commuting patterns observed in the Population Census from 1980 to 2015 and the hierarchical agglomerative clustering method adopted by Tolbert and Sizer (1996) to delineate CZs in the US. From 1,736 municipalities in 2015, for example, we constructed 265 CZs that are mutually exclusive and exhaustive. We then compared the properties of CZs with those of other potential administrative units including the municipality, prefecture and Urban Employment Area (UEA) proposed by Kanemoto (2002), finding that our proposed CZs capture the actual commuting patterns and heterogeneity of local labor markets reasonably well.</p>
-
