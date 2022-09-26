@@ -4,7 +4,7 @@ title: Research
 description: Published Papers, Working Papers, and Works on Progress
 ---
 
-## Research
+## Working papers
 
 ### [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper.*
 
@@ -43,3 +43,10 @@ employment in foreign subsidiary plants. The estimated factor demand
 elasticities indicate that foreign factor augmentation increased capital
 demand in Japan more than labor demand, suggesting that the foreign
   factor augmentation contributes to reducing the labor share in Japan.</p>
+
+
+## Work in progress
+
+### Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment (with Daiji Kawaguchi and Yukiko U. Saito).
+
+<p align="justify">We study the role of an investment promotion policy in adopting industrial robots and firm performances, notably employment. Combining the policy variation in the Tax Credit for Promoting Productivity-Enhancing Equipment Investment (TC-PPEI) in Japan and a newly collected Japanese firm-level longitudinal data on robot adoption, we find that the firms eligible for the TC-PPEI increased the adoption of robots. Our event-study analysis reveals that when firms adopt robots, they do not decrease the total number of workers but significantly increase it after 1-3 years of adoption event as well as sales. Our results suggest that adopting robots can be employment creating instead of destroying at the firm level.</p>
