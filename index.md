@@ -13,23 +13,33 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 ## [Research](./research.html)
 
+### Publication
+
+
+- [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Replication files](https://github.com/daisukeadachi/aks_robots).
+
+
+
 ### Working papers
 
 - [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper*. *Submitted.* [Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)]
 
 
 
-
-- [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Accepted at the Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Replication files](https://github.com/daisukeadachi/aks_robots).
+- [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](./assets/papers/Thai_insurance 221021.pdf) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). Revision requested at the *Journal of Economic Behavior & Organization*.
 
 
 
 
 - [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
 
+
+
 ### Work in progress
 
 - Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment (with Daiji Kawaguchi and Yukiko U. Saito).
+
+
 
 
 ## Teaching
