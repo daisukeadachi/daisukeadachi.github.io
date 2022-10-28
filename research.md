@@ -50,7 +50,6 @@ elasticities indicate that foreign factor augmentation increased capital
 demand in Japan more than labor demand, suggesting that the foreign factor augmentation contributes to reducing the labor share in Japan.</p>
 
 
-
 ## Work in progress
 
 ### Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment (with Daiji Kawaguchi and Yukiko U. Saito).
