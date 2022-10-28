@@ -4,29 +4,35 @@ title: Research
 description: Published Papers, Working Papers, and Works on Progress
 ---
 
+## Publication
+
+### [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*.
+
+Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)
+
+<p align="justify">This paper studies the relationship between industrial robots and employment in Japan based on a unique dataset that allows us to calculate the unit price of robots. Our model combines standard factor demand theory with a recent task-based approach to derive a simple estimation equation between robot prices and employment, and our identification strategy leverages heterogeneous applications of robots across industries and heterogeneous price changes across applications. We find that the decline in robot prices increased both the number of robots and employment by raising the productivity and production scale of robot-adopting industries.</p>
+
+
+
 ## Working papers
 
 ### [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper.*
 
 Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)
 
-<p align="justify">What are the distributional and aggregate effects of the rising use of industrial robots across occupations? I construct a novel dataset that tracks the cost of robots from Japan by occupations. The dataset reveals a relative one-standard deviation drop of Japan's robot cost induces a 0.2-0.3% drop in the US occupational wages. I develop a general equilibrium model where robots are internationally traded durable goods that may substitute for labor differently across occupations. The elasticities of substitution between robots and labor within an occupation drive the occupation-specific real-wage effects of robotization. I estimate the model using the robot cost shock from my dataset and the optimal instrumental variable implied by the model. I find that the elasticities of substitution between robots and labor are heterogeneous across occupations, and higher than those between general capital goods and labor in production and material-moving occupations. The estimated model implies that the industrial robots explain a 0.9 percentage point increase in the 90-50th percentile ratio of US occupational wages, and a 0.2 percentage point increase of the US real income from 1990 to 2007.</p>
+<p align="justify">Robotization has been substituting or complementing workers in a wide range　of occupations. To study the strength of this substitutability and the distributional　impacts of robotization, I match unique data on imported robot prices with the occupational　task information to measure the cost of using robots by occupation. The　data reveal that a 10% cost reduction induces a 1.2% drop in wages of production　and transportation occupations in the US, suggesting strong substitutability.　This　finding motivates the development of a model in which robots are traded and can　substitute labor with different elasticities of substitution across occupations. Using　a model-implied optimal instrumental variable, I estimate higher elasticity of substitution　between robots and workers than that of general capital goods in production　and transportation occupations. These estimates imply that the adoption of industrial　robots significantly affects wage polarization in the US.</p>
 
 
 
-### [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). *Revision requested at Journal of Labor Economics*.
+### [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](./assets/papers/Thai_insurance 221021.pdf) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). Revision requested at the *Journal of Economic Behavior & Organization*.
 
-Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)
-
-<p align="justify">We study the impacts of industrial robots on employment in Japan, the country with the longest tradition of robot adoption. We employ a novel data set of robot shipments by destination industry and robot application (specified task) in quantity and unit values. These features allow us to use an identification strategy leveraging the heterogeneous application of robots across industries and heterogeneous price changes across applications. For example, the price drop of welding robots relative to assembling robots induced faster adoption of robots in the automobile industry, which intensively uses welding processes, than in the electric machine industry, which intensively uses assembling process. Our industrial-level and commuting zone-level analyses both indicate that the decline of robot prices increased the number of robots as well as employment, suggesting that robots and labor are grossly complementary in the production process. We compare our estimates with the ones reported by existing studies and propose a mechanism that explains apparent differences between the results.</p>
+<p align="justify">This paper is the first empirical study on adverse selection and moral hazard in the corporate disaster insurance market. By constructing and examining a unique plant-level panel dataset on the 2011 Thailand floods, we overcome the general lack of data that has previously prevented a systematic study on the issue. By exploiting unexpected, large losses caused by a severe disaster, we find evidence of adverse selection for both property and business interruption insurance. Moral hazard, measured by impacts on recovery efforts, is also found for both types of insurance, albeit more salient effects for business interruption insurance.
 
 
 
 ### [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
 
-<p align="justify">We investigate the impact of multinational enterprises (MNEs) on the
-labor share in the source country. We propose an equilibrium model
-that features a production function with factor inputs in foreign
+<p align="justify">We investigate the impact of multinational enterprises (MNEs) on the labor share in the source country. We propose an equilibrium model that features a production function with factor inputs in foreign
 countries. Each firm receives a shock that shifts the productivity
 of foreign factor inputs. We conduct comparative statics regarding
 the foreign factor productivity shock and show that the difference
@@ -41,8 +47,8 @@ in the cluster. We employ a uniquely combined Japanese firm- and plant-level
 dataset that tracks wages, employment, fixed assets in Japan, and
 employment in foreign subsidiary plants. The estimated factor demand
 elasticities indicate that foreign factor augmentation increased capital
-demand in Japan more than labor demand, suggesting that the foreign
-  factor augmentation contributes to reducing the labor share in Japan.</p>
+demand in Japan more than labor demand, suggesting that the foreign factor augmentation contributes to reducing the labor share in Japan.</p>
+
 
 
 ## Work in progress
