@@ -6,7 +6,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Publication
 
-### [Robots and Employment: Evidence from Japan, 1978-2017](./assets/papers/robot_japan_latest.pdf) (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*.
+### [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205) (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*.
 
 Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)
 
