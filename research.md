@@ -50,6 +50,12 @@ elasticities indicate that foreign factor augmentation increased capital
 demand in Japan more than labor demand, suggesting that the foreign factor augmentation contributes to reducing the labor share in Japan.</p>
 
 
+### [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf) (with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito).
+
+<p align="justify">We construct commuting zones (CZs) in Japan using the inter-municipality commuting patterns observed in the 1980-2015 Population Census. We employ the hierarchical agglomerative clustering method adopted by Tolbert and Sizer (1996), who defined the standard CZs in the US. As a result, for example, in 2015, from 1,736 municipalities, we construct 265 CZs that are mutually exclusive and collectively exhaustive. We discuss the properties of economic variables within and across the CZs and find that CZs are feasible to capture the heterogeneity that exists across labor markets.</p>
+
+### 
+
 ## Work in progress
 
 ### Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment (with Daiji Kawaguchi and Yukiko U. Saito).
