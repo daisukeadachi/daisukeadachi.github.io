@@ -31,7 +31,12 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 
 
-- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
+- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). 
+
+
+
+
+- [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf) (with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). [Concordance between municipality code and CZ](https://github.com/daisukeadachi/commuting_zone_japan).
 
 
 
