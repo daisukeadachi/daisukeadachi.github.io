@@ -13,20 +13,20 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 ## [Research](./research.html)
 
-### Publication
+### Publications
 
 
-- [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205) (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Replication files](https://github.com/daisukeadachi/aks_robots).
+- [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205) (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
+
+
+
+- [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). Forthcoming in the *Journal of Economic Behavior & Organization*. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
 
 
 
 ### Working papers
 
 - [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper*. *Submitted.* [Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)]
-
-
-
-- [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](./assets/papers/Thai_insurance 221021.pdf) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). Revision requested at the *Journal of Economic Behavior & Organization*.
 
 
 

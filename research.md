@@ -4,13 +4,19 @@ title: Research
 description: Published Papers, Working Papers, and Works on Progress
 ---
 
-## Publication
+## Publications
 
-### [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205) (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*.
+### [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205) (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
 
 Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)
 
 <p align="justify">This paper studies the relationship between industrial robots and employment in Japan based on a unique dataset that allows us to calculate the unit price of robots. Our model combines standard factor demand theory with a recent task-based approach to derive a simple estimation equation between robot prices and employment, and our identification strategy leverages heterogeneous applications of robots across industries and heterogeneous price changes across applications. We find that the decline in robot prices increased both the number of robots and employment by raising the productivity and production scale of robot-adopting industries.</p>
+
+
+
+### [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). Forthcoming in the *Journal of Economic Behavior & Organization*. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
+
+<p align="justify">This paper is the first empirical study on adverse selection and moral hazard in the corporate disaster insurance market. By constructing and examining a unique plant-level panel dataset on the 2011 Thailand floods, we overcome the general lack of data that has previously prevented a systematic study on the issue. By exploiting unexpected, large losses caused by a severe disaster, we find evidence of adverse selection for both property and business interruption insurance. Moral hazard, measured by impacts on recovery efforts, is also found for both types of insurance, albeit more salient effects for business interruption insurance.
 
 
 
@@ -21,12 +27,6 @@ Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence
 Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)
 
 <p align="justify">Robotization has been substituting or complementing workers in a wide range　of occupations. To study the strength of this substitutability and the distributional　impacts of robotization, I match unique data on imported robot prices with the occupational　task information to measure the cost of using robots by occupation. The　data reveal that a 10% cost reduction induces a 1.2% drop in wages of production　and transportation occupations in the US, suggesting strong substitutability.　This　finding motivates the development of a model in which robots are traded and can　substitute labor with different elasticities of substitution across occupations. Using　a model-implied optimal instrumental variable, I estimate higher elasticity of substitution　between robots and workers than that of general capital goods in production　and transportation occupations. These estimates imply that the adoption of industrial　robots significantly affects wage polarization in the US.</p>
-
-
-
-### [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](./assets/papers/Thai_insurance 221021.pdf) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). Revision requested at the *Journal of Economic Behavior & Organization*.
-
-<p align="justify">This paper is the first empirical study on adverse selection and moral hazard in the corporate disaster insurance market. By constructing and examining a unique plant-level panel dataset on the 2011 Thailand floods, we overcome the general lack of data that has previously prevented a systematic study on the issue. By exploiting unexpected, large losses caused by a severe disaster, we find evidence of adverse selection for both property and business interruption insurance. Moral hazard, measured by impacts on recovery efforts, is also found for both types of insurance, albeit more salient effects for business interruption insurance.
 
 
 
@@ -54,7 +54,7 @@ demand in Japan more than labor demand, suggesting that the foreign factor augme
 
 <p align="justify">We construct commuting zones (CZs) in Japan using the inter-municipality commuting patterns observed in the 1980-2015 Population Census. We employ the hierarchical agglomerative clustering method adopted by Tolbert and Sizer (1996), who defined the standard CZs in the US. As a result, for example, in 2015, from 1,736 municipalities, we construct 265 CZs that are mutually exclusive and collectively exhaustive. We discuss the properties of economic variables within and across the CZs and find that CZs are feasible to capture the heterogeneity that exists across labor markets.</p>
 
-### 
+
 
 ## Work in progress
 
