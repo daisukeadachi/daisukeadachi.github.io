@@ -51,10 +51,17 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 - [5522: International Economics](https://sites.google.com/view/5522-internationaltrade) at Aarhus BSS
 
+
+
 <!--
+
+221222 taken as a note below...
 
 ## [Others](./others.html)
 
-[automated cover-letter generator](https://github.com/daisukeadachi/cover) for academic job market candidates 
+- Non-academic writings
+  - [AIが雇用に与える影響をどう評価するべきか](https://toyokeizai.net/articles/-/568546)
+  - フィールド・アイ連載 [1](https://www.jil.go.jp/institute/zassi/backnumber/2022/05/pdf/112-113.pdf), [2](https://www.jil.go.jp/institute/zassi/backnumber/2022/06/pdf/106-107.pdf), [3](https://www.jil.go.jp/institute/zassi/backnumber/2022/07/pdf/099-100.pdf)
+- [Cover-letter generator](https://github.com/daisukeadachi/cover) for academic job market candidates 
 
 -->
