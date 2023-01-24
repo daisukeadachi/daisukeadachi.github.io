@@ -16,7 +16,8 @@ Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence
 
 ### [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). Forthcoming in the *Journal of Economic Behavior & Organization*. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
 
-<p align="justify">This paper is the first empirical study on adverse selection and moral hazard in the corporate disaster insurance market. By constructing and examining a unique plant-level panel dataset on the 2011 Thailand floods, we overcome the general lack of data that has previously prevented a systematic study on the issue. By exploiting unexpected, large losses caused by a severe disaster, we find evidence of adverse selection for both property and business interruption insurance. Moral hazard, measured by impacts on recovery efforts, is also found for both types of insurance, albeit more salient effects for business interruption insurance.
+<p align="justify">This paper is the first empirical study on adverse selection and moral hazard in the corporate disaster insurance market. By constructing and examining a unique plant-level panel dataset on the 2011 Thailand floods, we overcome the general lack of data that has previously prevented a systematic study on the issue. By exploiting unexpected, large losses caused by a severe disaster, we find evidence of adverse selection for both property and business interruption insurance. Moral hazard, measured by impacts on recovery efforts, is also found for both types of insurance, albeit more salient effects for business interruption insurance.</p>
+
 
 
 
