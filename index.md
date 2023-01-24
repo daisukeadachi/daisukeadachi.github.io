@@ -31,7 +31,7 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 
 
-- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). 
+- **[updated on Jan 14, 2023]** [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). 
 
 
 

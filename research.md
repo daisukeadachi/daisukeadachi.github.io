@@ -30,24 +30,10 @@ Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://w
 
 
 
-### [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
+### **[updated on Jan 14, 2023]** [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
 
-<p align="justify">We investigate the impact of multinational enterprises (MNEs) on the labor share in the source country. We propose an equilibrium model that features a production function with factor inputs in foreign
-countries. Each firm receives a shock that shifts the productivity
-of foreign factor inputs. We conduct comparative statics regarding
-the foreign factor productivity shock and show that the difference
-in factor demand elasticities with respect to foreign factor prices
-affects aggregate labor share. To identify these elasticities, we
-develop a method-of-moments estimator that leverages a foreign factor
-productivity shock. We then apply the estimator to a unique natural
-experiment: the 2011 Thailand Floods. The floods had a strong impact
-on manufacturing clusters in areas north of Bangkok city and affected
-Japanese MNEs by forcing them to halt operations of plants located
-in the cluster. We employ a uniquely combined Japanese firm- and plant-level
-dataset that tracks wages, employment, fixed assets in Japan, and
-employment in foreign subsidiary plants. The estimated factor demand
-elasticities indicate that foreign factor augmentation increased capital
-demand in Japan more than labor demand, suggesting that the foreign factor augmentation contributes to reducing the labor share in Japan.</p>
+<p align="justify">We study the role of multinational enterprises (MNEs) on the labor share in the source country. A unique natural experiment from the 2011 Thailand Floods, which forced Japanese-MNEs plants to halt operations, is employed. This foreign productivity shock leads to a relative decrease in domestic employment and fixed assets of the MNEs affected by the flood, with a stronger effect on the latter. We propose a heterogeneous firm GE model that features a production function with offshore factor inputs and an ``extensive margin hat algebra'' method to solve the model quantitatively without observing the cost savings of marginal offshorers. We estimate the elasticity of substitution between home labor and foreign inputs by relating the home and foreign factor demands to the flood shock. The estimated model indicates that foreign factor productivity growth increased capital demand in Japan more than labor demand, reducing the labor share in Japan by 2.26 percentage points from 1995-2007.</p>
+
 
 
 ### [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf) (with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito).
