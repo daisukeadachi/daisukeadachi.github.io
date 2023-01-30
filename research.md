@@ -31,7 +31,7 @@ Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://w
 
 
 
-### **[updated on Jan 14, 2023]** [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito).
+### **[updated on Jan 14, 2023]** [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). [Slides](./assets/papers/slides_fdi_ineq_v10 230119.pdf)
 
 <p align="justify">We study the role of multinational enterprises (MNEs) on the labor share in the source country. A unique natural experiment from the 2011 Thailand Floods, which forced Japanese-MNEs plants to halt operations, is employed. This foreign productivity shock leads to a relative decrease in domestic employment and fixed assets of the MNEs affected by the flood, with a stronger effect on the latter. We propose a heterogeneous firm GE model that features a production function with offshore factor inputs and an ``extensive margin hat algebra'' method to solve the model quantitatively without observing the cost savings of marginal offshorers. We estimate the elasticity of substitution between home labor and foreign inputs by relating the home and foreign factor demands to the flood shock. The estimated model indicates that foreign factor productivity growth increased capital demand in Japan more than labor demand, reducing the labor share in Japan by 2.26 percentage points from 1995-2007.</p>
 
