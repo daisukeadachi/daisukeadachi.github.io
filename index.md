@@ -2,10 +2,9 @@
 layout: default
 title: Daisuke Adachi
 description: Daisuke Adachi's website
-
 ---
 
-<p align="justify">I am an assistant professor at Aarhus University, Department of Economics and Business Economics (BSS). I study international trade and labor economics. My research areas are automation, globalization, and employment.</p>
+<p align="justify">I am an assistant professor at Aarhus University, Department of Economics and Business Economics (BSS). My research areas are international trade and labor economics, specifically automation, globalization, and employment.</p>
 
 Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
@@ -20,18 +19,18 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 
 
-- [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). Forthcoming in the *Journal of Economic Behavior & Organization*. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
+- [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371) (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). *Journal of Economic Behavior & Organization*, 2023, 205, 376-386. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
 
 
 
 ### Working papers
 
-- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper*. *Submitted.* [Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)]
+- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper*. [Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)]
 
 
 
 
-- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf).
+- **[updated on 23-03-23]** [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf).
 
 
 
@@ -63,5 +62,6 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
   - [AIが雇用に与える影響をどう評価するべきか](https://toyokeizai.net/articles/-/568546)
   - フィールド・アイ連載 [1](https://www.jil.go.jp/institute/zassi/backnumber/2022/05/pdf/112-113.pdf), [2](https://www.jil.go.jp/institute/zassi/backnumber/2022/06/pdf/106-107.pdf), [3](https://www.jil.go.jp/institute/zassi/backnumber/2022/07/pdf/099-100.pdf)
 - [Cover-letter generator](https://github.com/daisukeadachi/cover) for academic job market candidates 
+- （他の所属をどうするか。[RIETI](https://www.rieti.go.jp/users/adachi-daisuke/), [UTEcon](https://utecon.net/team/)）
 
 -->
