@@ -23,11 +23,11 @@ Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence
 
 ## Working papers
 
-### [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper.*
+### **[updated on 2023-04-04]**[Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper.*
 
 Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)
 
-<p align="justify">Robotization has been substituting or complementing workers in a wide range　of occupations. To study the strength of this substitutability and the distributional　impacts of robotization, I match unique data on imported robot prices with the occupational　task information to measure the cost of using robots by occupation. The　data reveal that a 10% cost reduction induces a 1.2% drop in wages of production　and transportation occupations in the US, suggesting strong substitutability.　This　finding motivates the development of a model in which robots are traded and can　substitute labor with different elasticities of substitution across occupations. Using　a model-implied optimal instrumental variable, I estimate higher elasticity of substitution　between robots and workers than that of general capital goods in production　and transportation occupations. These estimates imply that the adoption of industrial　robots significantly affects wage polarization in the US.</p>
+<p align="justify">Robotics has been substituting or complementing workers in a wide range of occupations. To examine the strength of this substitutability, I match unique data on imported robot prices with the occupational task information to measure the cost of using robots by occupation. The data show that a 10% reduction in the cost is associated with a 1.2% reduction in wages for production and transportation occupations in the US, suggesting strong substitutability in these occupations. This finding motivates the development of a model in which robots are traded and can substitute for labor with different elasticities of substitution across occupations. Using a model-implied optimal instrumental variable, I estimate a higher elasticity of substitution between robots and workers than that of general capital goods in production and transportation occupations. These estimates imply that the adoption of industrial robots significantly affects wage polarization in the US.</p>
 
 
 
