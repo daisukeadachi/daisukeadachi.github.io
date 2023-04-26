@@ -8,9 +8,7 @@ description: Daisuke Adachi's website
 
 Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
-## [CV](assets/Daisuke_Adachi_CV_latest.pdf)
-
-(updated on 23-04-26)
+## [CV](assets/Daisuke_Adachi_CV_latest.pdf) [updated on 23-04-26]
 
 ## [Research](./research.html)
 
