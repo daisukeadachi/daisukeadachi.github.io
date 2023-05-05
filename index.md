@@ -12,6 +12,10 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 ## [Research](./research.html)
 
+<!--
+
+230505 crunky to update both index and research page...
+
 ### Publications
 
 
@@ -25,12 +29,12 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 ### Working papers
 
-- **[updated on 23-04-04]** [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper*. [Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)]
+- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper*. [Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)]
 
 
 
 
-- **[updated on 23-03-23]** [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf).
+- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) (with Yukiko U. Saito). [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf).
 
 
 
@@ -43,14 +47,18 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 - Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment (with Daiji Kawaguchi and Yukiko U. Saito).
 
+-->
+
+<!--
+
+230505 crunky to update both index and research page...
 
 
-
-## Teaching
+## [Teaching](./teaching.html)
 
 - [5522: International Economics](https://sites.google.com/view/5522-internationaltrade) at Aarhus BSS
 
-
+-->
 
 <!--
 
