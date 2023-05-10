@@ -8,7 +8,7 @@ description: Daisuke Adachi's website
 
 Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
-## [CV](assets/Daisuke_Adachi_CV_latest.pdf) [updated on 23-04-26]
+## [CV](assets/Daisuke_Adachi_CV_latest.pdf)
 
 ## [Research](./research.html)
 
@@ -49,12 +49,11 @@ Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 
 -->
 
+## [Teaching](./teaching.html)
+
 <!--
 
 230505 crunky to update both index and research page...
-
-
-## [Teaching](./teaching.html)
 
 - [5522: International Economics](https://sites.google.com/view/5522-internationaltrade) at Aarhus BSS
 
