@@ -6,9 +6,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 # Working papers
 
-### [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper.*
-
-Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)
+- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper.* Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx)
 
 <!--
 
@@ -16,9 +14,7 @@ Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://w
 
 -->
 
-### [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf) 
-
-(with Yukiko U. Saito). [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
+- [Multinational Production and Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (with Yukiko U. Saito). [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 
 <!--
 
@@ -26,9 +22,7 @@ Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://w
 
 -->
 
-### [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf) 
-
-(with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito).
+- [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf). (with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito).
 
 <!--
 
@@ -38,9 +32,7 @@ Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://w
 
 # Work in progress
 
-### Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment 
-
-(with Daiji Kawaguchi and Yukiko U. Saito).
+- Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment. (with Daiji Kawaguchi and Yukiko U. Saito).
 
 <!--
 
@@ -50,11 +42,9 @@ Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://w
 
 # Publications
 
-### [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205) 
+- [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205). (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
 
-(with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
-
-Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)
+  Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)
 
 <!--
 
@@ -62,9 +52,7 @@ Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence
 
 -->
 
-### [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371) 
-
-(with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). *Journal of Economic Behavior & Organization*, 2023, 205, 376-386. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
+- [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371). (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). *Journal of Economic Behavior & Organization*, 2023, 205, 376-386. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
 
 <!--
 
