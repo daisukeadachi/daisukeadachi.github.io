@@ -4,8 +4,7 @@ title: Research
 description: Published Papers, Working Papers, and Works on Progress
 ---
 
-
-## Working papers
+# Working papers
 
 ### [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Job Market Paper.*
 
@@ -37,7 +36,7 @@ Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://w
 
 -->
 
-## Work in progress
+# Work in progress
 
 ### Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment 
 
@@ -49,7 +48,7 @@ Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://w
 
 -->
 
-## Publications
+# Publications
 
 ### [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205) 
 
