@@ -42,7 +42,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Publications
 
-- [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205). (with Daiji Kawaguchi and Yukiko U. Saito). Forthcoming in *the Journal of Labor Economics*. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
+- [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205). (with Daiji Kawaguchi and Yukiko U. Saito). *Journal of Labor Economics*, 2024 42:2, 591-634. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
 
   Media Coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)
 
