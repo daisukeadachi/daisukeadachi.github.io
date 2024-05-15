@@ -6,7 +6,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Working papers
 
-- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (with Yukiko U. Saito). *Revise and Resubmit at the Review of Economics and Statistics*. [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
+- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (with Yukiko U. Saito). *R&R at the Review of Economics and Statistics*. [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 
 <!--
 
@@ -14,7 +14,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *Submitted.* Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
+- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_JMP_adachi_latest.pdf). *R&R at Journal of Monetary Economics.* Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
 
 <!--
 
