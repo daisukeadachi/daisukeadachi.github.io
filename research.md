@@ -14,7 +14,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-- Robots and Wage Polarization: The Effects of Robot Capital across Occupations. New Draft Coming Soon. *R&R at the Journal of Monetary Economics.* Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
+- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_latest.pdf). New Draft Coming Soon. Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
 
 <!--
 
