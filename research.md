@@ -22,7 +22,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-- [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf). (with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito).
+- [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf). (with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). [[VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)]
 
 <!--
 
