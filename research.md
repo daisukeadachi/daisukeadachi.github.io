@@ -40,20 +40,15 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-## Publications
+## Selected Publications
 
 - [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205). (with Daiji Kawaguchi and Yukiko U. Saito). *Journal of Labor Economics*, 2024 42:2, 591-634. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
-
 
 <!--
 
 <p align="justify">This paper studies the relationship between industrial robots and employment in Japan based on a unique dataset that allows us to calculate the unit price of robots. Our model combines standard factor demand theory with a recent task-based approach to derive a simple estimation equation between robot prices and employment, and our identification strategy leverages heterogeneous applications of robots across industries and heterogeneous price changes across applications. We find that the decline in robot prices increased both the number of robots and employment by raising the productivity and production scale of robot-adopting industries.</p>
 
--->
-
 - [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371). (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). *Journal of Economic Behavior & Organization*, 2023, 205, 376-386. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
-
-<!--
 
 <p align="justify">This paper is the first empirical study on adverse selection and moral hazard in the corporate disaster insurance market. By constructing and examining a unique plant-level panel dataset on the 2011 Thailand floods, we overcome the general lack of data that has previously prevented a systematic study on the issue. By exploiting unexpected, large losses caused by a severe disaster, we find evidence of adverse selection for both property and business interruption insurance. Moral hazard, measured by impacts on recovery efforts, is also found for both types of insurance, albeit more salient effects for business interruption insurance.</p>
 
