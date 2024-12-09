@@ -14,7 +14,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-- [Robots and Wage Polarization: The Effects of Robot Capital across Occupations](./assets/papers/draft_latest.pdf). *R&R at Journal of Monetary Economics*. Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
+- [Elasticity of Substitution between Robots and Workers: Theory and Evidence from Japanese Robot Price Data](./assets/papers/draft_latest.pdf). *R&R at Journal of Monetary Economics*. Previously circulated as "Robots and Wage Polarization: The Effects of Robot Capital across Occupations." Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
 
 <!--
 
