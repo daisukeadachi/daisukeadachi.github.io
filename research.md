@@ -6,19 +6,19 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Working papers
 
+- [Elasticity of Substitution between Robots and Workers: Theory and Evidence from Japanese Robot Price Data](./assets/papers/draft_latest.pdf). *R&R (2nd round) at Journal of Monetary Economics*. Previously circulated as "Robots and Wage Polarization: The Effects of Robot Capital across Occupations." Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
+
+<!--
+
+<p align="justify">Robotics has been substituting or complementing workers in a wide range of occupations. To examine the strength of this substitutability, I match unique data on imported robot prices with the occupational task information to measure the cost of using robots by occupation. The data show that a 10% reduction in the cost is associated with a 1.2% reduction in wages for production and transportation occupations in the US, suggesting strong substitutability in these occupations. This finding motivates the development of a model in which robots are traded and can substitute for labor with different elasticities of substitution across occupations. Using a model-implied optimal instrumental variable, I estimate a higher elasticity of substitution between robots and workers than that of general capital goods in production and transportation occupations. These estimates imply that the adoption of industrial robots significantly affects wage polarization in the US.</p>
+
+-->
+
 - [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (with Yukiko U. Saito). *R&R at the Review of Economics and Statistics*. [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 
 <!--
 
 <p align="justify">We study the role of multinational enterprises (MNEs) on the labor share in the source country. A unique natural experiment from the 2011 Thailand Floods, which forced Japanese-MNEs plants to halt operations, is employed. This foreign productivity shock leads to a relative decrease in domestic employment and fixed assets of the MNEs affected by the flood, with a stronger effect on the latter. We propose a heterogeneous firm GE model that features a production function with offshore factor inputs and an ``extensive margin hat algebra'' method to solve the model quantitatively without observing the cost savings of marginal offshorers. We estimate the elasticity of substitution between home labor and foreign inputs by relating the home and foreign factor demands to the flood shock. The estimated model indicates that foreign factor productivity growth increased capital demand in Japan more than labor demand, reducing the labor share in Japan by 2.26 percentage points from 1995-2007.</p>
-
--->
-
-- [Elasticity of Substitution between Robots and Workers: Theory and Evidence from Japanese Robot Price Data](./assets/papers/draft_latest.pdf). *R&R at Journal of Monetary Economics*. Previously circulated as "Robots and Wage Polarization: The Effects of Robot Capital across Occupations." Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
-
-<!--
-
-<p align="justify">Robotics has been substituting or complementing workers in a wide range of occupations. To examine the strength of this substitutability, I match unique data on imported robot prices with the occupational task information to measure the cost of using robots by occupation. The data show that a 10% reduction in the cost is associated with a 1.2% reduction in wages for production and transportation occupations in the US, suggesting strong substitutability in these occupations. This finding motivates the development of a model in which robots are traded and can substitute for labor with different elasticities of substitution across occupations. Using a model-implied optimal instrumental variable, I estimate a higher elasticity of substitution between robots and workers than that of general capital goods in production and transportation occupations. These estimates imply that the adoption of industrial robots significantly affects wage polarization in the US.</p>
 
 -->
 
