@@ -22,6 +22,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
+- [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v1) (with Ryo Kambayashi and Kohei Kawaguchi).
 - [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf). (with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). [[VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)]
 
 <!--
