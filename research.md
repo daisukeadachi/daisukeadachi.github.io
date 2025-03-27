@@ -22,7 +22,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-- [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v1) (with Ryo Kambayashi and Kohei Kawaguchi).
+- [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v3) (with Ryo Kambayashi and Kohei Kawaguchi).
 
 <!--
 
