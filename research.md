@@ -31,6 +31,9 @@ description: Published Papers, Working Papers, and Works on Progress
 ## Work in progress
 
 - When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice (with Lars Skipper)
+
+
+
 - Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment. (with Daiji Kawaguchi and Yukiko U. Saito).
 
 <!--
