@@ -6,14 +6,6 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Working papers
 
-- [Elasticity of Substitution between Robots and Workers: Theory and Evidence from Japanese Robot Price Data](./assets/papers/draft_latest.pdf). *R&R (2nd round) at Journal of Monetary Economics*. Previously circulated as "Robots and Wage Polarization: The Effects of Robot Capital across Occupations." Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
-
-<!--
-
-<p align="justify">Robotics has been substituting or complementing workers in a wide range of occupations. To examine the strength of this substitutability, I match unique data on imported robot prices with the occupational task information to measure the cost of using robots by occupation. The data show that a 10% reduction in the cost is associated with a 1.2% reduction in wages for production and transportation occupations in the US, suggesting strong substitutability in these occupations. This finding motivates the development of a model in which robots are traded and can substitute for labor with different elasticities of substitution across occupations. Using a model-implied optimal instrumental variable, I estimate a higher elasticity of substitution between robots and workers than that of general capital goods in production and transportation occupations. These estimates imply that the adoption of industrial robots significantly affects wage polarization in the US.</p>
-
--->
-
 - [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (with Yukiko U. Saito). *R&R at the Review of Economics and Statistics*. [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 
 <!--
@@ -46,7 +38,9 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-## Selected Publications
+## Selected Publications & Accepted Papers
+
+- [Elasticity of Substitution between Robots and Workers: Theory and Evidence from Japanese Robot Price Data](./assets/papers/draft_latest.pdf). *Accepted at Journal of Monetary Economics*. Previously circulated as "Robots and Wage Polarization: The Effects of Robot Capital across Occupations." Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
 
 - [Robots and Employment: Evidence from Japan, 1978-2017](https://www.journals.uchicago.edu/doi/10.1086/723205). (with Daiji Kawaguchi and Yukiko U. Saito). *Journal of Labor Economics*, 2024 42:2, 591-634. [[VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/)]. [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
 
