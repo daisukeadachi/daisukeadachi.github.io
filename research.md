@@ -32,15 +32,15 @@ description: Published Papers, Working Papers, and Works on Progress
 
 - When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice (with Lars Skipper)
 
+<p align="justify">The offshoring of manufacturing jobs has replaced low-skilled workers who often lack the relevant skills to transition to new occupations. Using Danish adult education and employer-employee data, we study how adult vocational training influences occupational choice and mitigates labor demand shocks. Despite low participation rates in training programs, we show that manufacturing workers trained in business services (BS) programs have a 0.9-3.1 percentage point higher probability of transitioning to BS occupations using dynamic difference-in-difference analysis. We then propose and estimate a life-cycle model of occupation and program choice that yields a nested logit conditional choice probability. The program take-up elasticity is lower than the occupation choice elasticity, suggesting that individuals are insensitive to the monetary value of the programs. A counterfactual wage subsidy policy tied to participation in BS-related programs supports transitions from manufacturing to BS occupations and reduces the share of low-skilled individuals leaving the labor force especially at older ages, demonstrating the potential for a resilient labor market.</p>
 
+- Rails, Risks, and Resilience: A Dynamic Spatial Equilibrium Model with Natural Disaster
+
+<p align="justify">Local natural disasters can affect the entire spatial economy through direct effects and spillovers, yet this has not been explicitly considered in spatial equilibrium models. This study constructs a dynamic stochastic spatial economic model that explicitly incorporates natural disaster risk and analyzes how the interdependence between aggregate uncertainty and spatial frictions affects labor distribution and welfare. By adopting a formulation where a single Poisson shock representing natural disasters affects both productivity decline and changes in transportation costs, we simplify the dependence of economic variables on disasters and enable analysis of its approximate solution using the master equation approach. We apply the model to Japan's Tokai Trough earthquake risk and the Linear Chuo Shinkansen project to quantify the economic value of transportation infrastructure redundancy under disaster risk. Simulation results show that disaster risk affects short-term and long-term spatial equilibria differently, suggesting that traditional cost-benefit analyses that do not consider disaster risk may misvalue the long-term value of transportation infrastructure. This framework provides policymakers with a new perspective for evaluating transportation infrastructure investments in the presence of natural disaster risk.</p>
 
 - Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment. (with Daiji Kawaguchi and Yukiko U. Saito).
 
-<!--
-
 <p align="justify">We study the role of an investment promotion policy in adopting industrial robots and firm performances, notably employment. Combining the policy variation in the Tax Credit for Promoting Productivity-Enhancing Equipment Investment (TC-PPEI) in Japan and a newly collected Japanese firm-level longitudinal data on robot adoption, we find that the firms eligible for the TC-PPEI increased the adoption of robots. Our event-study analysis reveals that when firms adopt robots, they do not decrease the total number of workers but significantly increase it after 1-3 years of adoption event as well as sales. Our results suggest that adopting robots can be employment creating instead of destroying at the firm level.</p>
-
--->
 
 ## Selected Publications & Accepted Papers
 
