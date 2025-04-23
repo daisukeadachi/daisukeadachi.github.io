@@ -6,7 +6,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Working papers
 
-- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (with Yukiko U. Saito). *R&R at the Review of Economics and Statistics*. [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
+- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (joint with Yukiko U. Saito). *R&R at the Review of Economics and Statistics*. [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 
 <!--
 
@@ -14,13 +14,9 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-- [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v3) (with Ryo Kambayashi and Kohei Kawaguchi).
+- [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v3) (joint with Ryo Kambayashi and Kohei Kawaguchi).
 
-<!--
-
--->
-
-- [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf). (with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). [[VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)]
+- [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf). (joint with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). [[VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)]
 
 <!--
 
@@ -30,14 +26,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Work in progress
 
-- When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice (with Lars Skipper)
-
-<!--
-
-<p align="justify">The offshoring of manufacturing jobs has replaced low-skilled workers who often lack the relevant skills to transition to new occupations. Using Danish adult education and employer-employee data, we study how adult vocational training influences occupational choice and mitigates labor demand shocks. Despite low participation rates in training programs, we show that manufacturing workers trained in business services (BS) programs have a 0.9-3.1 percentage point higher probability of transitioning to BS occupations using dynamic difference-in-difference analysis. We then propose and estimate a life-cycle model of occupation and program choice that yields a nested logit conditional choice probability. The program take-up elasticity is lower than the occupation choice elasticity, suggesting that individuals are insensitive to the monetary value of the programs. A counterfactual wage subsidy policy tied to participation in BS-related programs supports transitions from manufacturing to BS occupations and reduces the share of low-skilled individuals leaving the labor force especially at older ages, demonstrating the potential for a resilient labor market.</p>
-
--->
-
+- Monopsony in Two-sided Matching Markets (joint with Suk Joon Son and Shintaro Yamaguchi)
 - Rails, Risks, and Resilience: A Dynamic Spatial Equilibrium Model with Natural Disaster
 
 <!--
@@ -46,7 +35,15 @@ description: Published Papers, Working Papers, and Works on Progress
 
 -->
 
-- Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment. (with Daiji Kawaguchi and Yukiko U. Saito).
+- When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice (joint with Lars Skipper)
+
+<!--
+
+<p align="justify">The offshoring of manufacturing jobs has replaced low-skilled workers who often lack the relevant skills to transition to new occupations. Using Danish adult education and employer-employee data, we study how adult vocational training influences occupational choice and mitigates labor demand shocks. Despite low participation rates in training programs, we show that manufacturing workers trained in business services (BS) programs have a 0.9-3.1 percentage point higher probability of transitioning to BS occupations using dynamic difference-in-difference analysis. We then propose and estimate a life-cycle model of occupation and program choice that yields a nested logit conditional choice probability. The program take-up elasticity is lower than the occupation choice elasticity, suggesting that individuals are insensitive to the monetary value of the programs. A counterfactual wage subsidy policy tied to participation in BS-related programs supports transitions from manufacturing to BS occupations and reduces the share of low-skilled individuals leaving the labor force especially at older ages, demonstrating the potential for a resilient labor market.</p>
+
+-->
+
+- Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment. (joint with Daiji Kawaguchi and Yukiko U. Saito).
 
 <!--
 
