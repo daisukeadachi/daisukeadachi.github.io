@@ -26,7 +26,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Work in progress
 
-- Monopsony in Two-sided Matching Markets (joint with Suk Joon Son and Shintaro Yamaguchi)
+- Monopsony in a Two-sided Matching Market (joint with Suk Joon Son and Shintaro Yamaguchi)
 
 
 
