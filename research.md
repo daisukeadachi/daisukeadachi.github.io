@@ -18,6 +18,12 @@ description: Published Papers, Working Papers, and Works on Progress
 
 - [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v3) (joint with Ryo Kambayashi and Kohei Kawaguchi).
 
+
+
+- [When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice](https://osf.io/preprints/socarxiv/7dktj_v1) (joint with Lars Skipper)
+
+
+
 - [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf). (joint with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). 
   - Press coverage: [VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)
 
@@ -39,14 +45,6 @@ description: Published Papers, Working Papers, and Works on Progress
 <!--
 
 <p align="justify">Local natural disasters can affect the entire spatial economy through direct effects and spillovers, yet this has not been explicitly considered in spatial equilibrium models. This study constructs a dynamic stochastic spatial economic model that explicitly incorporates natural disaster risk and analyzes how the interdependence between aggregate uncertainty and spatial frictions affects labor distribution and welfare. By adopting a formulation where a single Poisson shock representing natural disasters affects both productivity decline and changes in transportation costs, we simplify the dependence of economic variables on disasters and enable analysis of its approximate solution using the master equation approach. We apply the model to Japan's Tokai Trough earthquake risk and the Linear Chuo Shinkansen project to quantify the economic value of transportation infrastructure redundancy under disaster risk. Simulation results show that disaster risk affects short-term and long-term spatial equilibria differently, suggesting that traditional cost-benefit analyses that do not consider disaster risk may misvalue the long-term value of transportation infrastructure. This framework provides policymakers with a new perspective for evaluating transportation infrastructure investments in the presence of natural disaster risk.</p>
-
--->
-
-- When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice (joint with Lars Skipper)
-
-<!--
-
-<p align="justify">The offshoring of manufacturing jobs has replaced low-skilled workers who often lack the relevant skills to transition to new occupations. Using Danish adult education and employer-employee data, we study how adult vocational training influences occupational choice and mitigates labor demand shocks. Despite low participation rates in training programs, we show that manufacturing workers trained in business services (BS) programs have a 0.9-3.1 percentage point higher probability of transitioning to BS occupations using dynamic difference-in-difference analysis. We then propose and estimate a life-cycle model of occupation and program choice that yields a nested logit conditional choice probability. The program take-up elasticity is lower than the occupation choice elasticity, suggesting that individuals are insensitive to the monetary value of the programs. A counterfactual wage subsidy policy tied to participation in BS-related programs supports transitions from manufacturing to BS occupations and reduces the share of low-skilled individuals leaving the labor force especially at older ages, demonstrating the potential for a resilient labor market.</p>
 
 -->
 
