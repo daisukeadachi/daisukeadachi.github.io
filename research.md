@@ -10,29 +10,17 @@ description: Published Papers, Working Papers, and Works on Progress
   - [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 
 
-<!--
 
-<p align="justify">We study the role of multinational enterprises (MNEs) on the labor share in the source country. A unique natural experiment from the 2011 Thailand Floods, which forced Japanese-MNEs plants to halt operations, is employed. This foreign productivity shock leads to a relative decrease in domestic employment and fixed assets of the MNEs affected by the flood, with a stronger effect on the latter. We propose a heterogeneous firm GE model that features a production function with offshore factor inputs and an ``extensive margin hat algebra'' method to solve the model quantitatively without observing the cost savings of marginal offshorers. We estimate the elasticity of substitution between home labor and foreign inputs by relating the home and foreign factor demands to the flood shock. The estimated model indicates that foreign factor productivity growth increased capital demand in Japan more than labor demand, reducing the labor share in Japan by 2.26 percentage points from 1995-2007.</p>
+- [Commuting Zones in Japan](./assets/papers/commuting_zones.pdf). (joint with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). 
+  - Press coverage: [VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)
 
--->
+
 
 - [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v3) (joint with Ryo Kambayashi and Kohei Kawaguchi).
 
 
 
 - [When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice](https://osf.io/preprints/socarxiv/7dktj_v1) (joint with Lars Skipper)
-
-
-
-- [Commuting Zones in Japan](./assets/papers/commuting_zones_rietidp.pdf). (joint with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). 
-  - Press coverage: [VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)
-
-
-<!--
-
-<p align="justify">We construct commuting zones (CZs) in Japan using the inter-municipality commuting patterns observed in the 1980-2015 Population Census. We employ the hierarchical agglomerative clustering method adopted by Tolbert and Sizer (1996), who defined the standard CZs in the US. As a result, for example, in 2015, from 1,736 municipalities, we construct 265 CZs that are mutually exclusive and collectively exhaustive. We discuss the properties of economic variables within and across the CZs and find that CZs are feasible to capture the heterogeneity that exists across labor markets.</p>
-
--->
 
 ## Work in progress
 
