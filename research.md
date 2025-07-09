@@ -20,7 +20,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 
 
-- [When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice](https://osf.io/preprints/socarxiv/7dktj_v1) (joint with Lars Skipper)
+- [When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice](https://osf.io/preprints/socarxiv/7dktj_v3) (joint with Lars Skipper)
 
 ## Work in progress
 
