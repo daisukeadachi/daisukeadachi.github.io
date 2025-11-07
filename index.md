@@ -4,7 +4,7 @@ title: Daisuke Adachi
 description: Daisuke Adachi's website
 ---
 
-<p align="justify">I am an associate professor at Aarhus University, Department of Economics and Business Economics (BSS) and a specially appointed fellow at the Research Institute of Economy, Trade and Industry (RIETI). My research areas are international trade and labor economics, specifically automation, globalization, and employment.</p>
+<p align="justify">I am an associate professor at Aarhus University, Department of Economics and Business Economics (BSS). I also have an appointement at the Research Institute of Economy, Trade and Industry (RIETI) and Rockwool Foundation Berlin (RFBerlin). My research areas are international trade and labor economics, specifically automation, globalization, and employment.</p>
 
 Contact: [daisuke.adachi.econ@gmail.com](mailto:daisuke.adachi.econ@gmail.com)
 

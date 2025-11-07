@@ -6,7 +6,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Working papers
 
-- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (joint with Yukiko U. Saito). *Revision requested by the Review of Economics and Statistics*. 
+- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (joint with Yukiko U. Saito). *Conditionally accepted by the Review of Economics and Statistics*. 
   - [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 
 
