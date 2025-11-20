@@ -6,11 +6,6 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Working papers
 
-- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (joint with Yukiko U. Saito). *Conditionally accepted by the Review of Economics and Statistics*. 
-  - [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
-
-
-
 - [When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice](https://osf.io/preprints/socarxiv/7dktj_v3) (joint with Lars Skipper). *Revision requested by the Journal of Labor Economics*. 
 
 
@@ -46,6 +41,8 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Selected Publications & Accepted Papers
 
+- [Multinational Production and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (joint with Yukiko U. Saito). *Accepted by the Review of Economics and Statistics*. 
+  - [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 - Adachi, D. (2025). Elasticity of Substitution between Robots and Workers: Theory and Evidence from Japanese Robot Price Data.  *Journal of Monetary Economics*. 152, 2025, 103782. [https://doi.org/10.1016/j.jmoneco.2025.103782](https://doi.org/10.1016/j.jmoneco.2025.103782)
   - Previously circulated as "Robots and Wage Polarization: The Effects of Robot Capital across Occupations." (Job market paper version)
   - Best paper award at the [19th GEP/CEPR Annual Postgraduate Conference](https://www.nottingham.ac.uk/gep/news-events/conferences/2020-21/postgrad-conference-2021.aspx).
@@ -53,13 +50,4 @@ description: Published Papers, Working Papers, and Works on Progress
   - [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
   - Press coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/). 
 
-
-<!--
-
-<p align="justify">This paper studies the relationship between industrial robots and employment in Japan based on a unique dataset that allows us to calculate the unit price of robots. Our model combines standard factor demand theory with a recent task-based approach to derive a simple estimation equation between robot prices and employment, and our identification strategy leverages heterogeneous applications of robots across industries and heterogeneous price changes across applications. We find that the decline in robot prices increased both the number of robots and employment by raising the productivity and production scale of robot-adopting industries.</p>
-
 - [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371). (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). *Journal of Economic Behavior & Organization*, 2023, 205, 376-386. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
-
-<p align="justify">This paper is the first empirical study on adverse selection and moral hazard in the corporate disaster insurance market. By constructing and examining a unique plant-level panel dataset on the 2011 Thailand floods, we overcome the general lack of data that has previously prevented a systematic study on the issue. By exploiting unexpected, large losses caused by a severe disaster, we find evidence of adverse selection for both property and business interruption insurance. Moral hazard, measured by impacts on recovery efforts, is also found for both types of insurance, albeit more salient effects for business interruption insurance.</p>
-
--->
