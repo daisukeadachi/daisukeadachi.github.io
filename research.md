@@ -10,7 +10,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 
 
-- [Commuting Zones in Japan](./assets/papers/commuting_zones.pdf). (joint with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). 
+- [Commuting Zones in Japan](./assets/papers/commuting_zones.pdf). (joint with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). *Revision requested by the Japanese Economic Review*. 
   - Press coverage: [VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)
 
 
