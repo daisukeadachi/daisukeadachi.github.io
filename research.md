@@ -50,4 +50,5 @@ description: Published Papers, Working Papers, and Works on Progress
   - [Final working paper version](./assets/papers/robot_japan_latest.pdf). [Replication files](https://github.com/daisukeadachi/aks_robots).
   - Press coverage: [VoxEU](https://voxeu.org/article/robots-and-employment-evidence-japan), [World Economic Forum](https://www.weforum.org/agenda/2021/02/robots-artificial-intelligence-japan/). 
 
-- [Adverse Selection and Moral Hazard in Corporate Insurance Markets: Evidence from the 2011 Thailand Floods](https://authors.elsevier.com/sd/article/S0167268122004371). (with Hiroyuki Nakata, Yasuyuki Sawada, and Kunio Sekiguchi). *Journal of Economic Behavior & Organization*, 2023, 205, 376-386. [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
+- Adachi, D., Nakata, H., Sawada, Y., & Sekiguchi, K. (2023). Adverse selection and moral hazard in corporate insurance markets: Evidence from the 2011 Thailand floods. *Journal of Economic Behavior & Organization*, *205*, 376-386. https://doi.org/10.1016/j.jebo.2022.11.027
+  - [Final working paper version](./assets/papers/Thai_insurance 221021.pdf).
