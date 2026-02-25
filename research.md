@@ -10,26 +10,22 @@ description: Published Papers, Working Papers, and Works on Progress
 
 
 
-- [Commuting Zones in Japan](./assets/papers/commuting_zones.pdf). (joint with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). *Revision requested by the Japanese Economic Review*. 
+- [Commuting Zones in Japan](./assets/papers/commuting_zones.pdf) (joint with Taiyo Fukai, Daiji Kawaguchi, Yukiko U. Saito). *Revision requested by the Japanese Economic Review*. 
   - Press coverage: [VoxEU](https://cepr.org/voxeu/columns/commuting-zones-japan)
 
 
 
 - [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v4) (joint with Ryo Kambayashi and Kohei Kawaguchi).
 
+
+
+- [Rails, Risks, and Resilience: A Dynamic Spatial Equilibrium Model with Natural Disaster](https://osf.io/preprints/socarxiv/qj9ka_v1).
+
 ## Work in progress
 
 - Monopsony in a Two-sided Matching Market (joint with Suk Joon Son and Shintaro Yamaguchi)
 
 
-
-- Rails, Risks, and Resilience: A Dynamic Spatial Equilibrium Model with Natural Disaster
-
-<!--
-
-<p align="justify">Local natural disasters can affect the entire spatial economy through direct effects and spillovers, yet this has not been explicitly considered in spatial equilibrium models. This study constructs a dynamic stochastic spatial economic model that explicitly incorporates natural disaster risk and analyzes how the interdependence between aggregate uncertainty and spatial frictions affects labor distribution and welfare. By adopting a formulation where a single Poisson shock representing natural disasters affects both productivity decline and changes in transportation costs, we simplify the dependence of economic variables on disasters and enable analysis of its approximate solution using the master equation approach. We apply the model to Japan's Tokai Trough earthquake risk and the Linear Chuo Shinkansen project to quantify the economic value of transportation infrastructure redundancy under disaster risk. Simulation results show that disaster risk affects short-term and long-term spatial equilibria differently, suggesting that traditional cost-benefit analyses that do not consider disaster risk may misvalue the long-term value of transportation infrastructure. This framework provides policymakers with a new perspective for evaluating transportation infrastructure investments in the presence of natural disaster risk.</p>
-
--->
 
 - Robots on Sale: The Effect of Investment Promotion on Robot Adoption and Employment. (joint with Daiji Kawaguchi and Yukiko U. Saito).
 
