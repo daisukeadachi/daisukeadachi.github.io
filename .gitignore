@@ -1,0 +1,5 @@
+# Working scratch directory (temporary files from CV/git inspection)
+tmp/
+
+# Claude Code local settings (machine-specific, may contain secrets)
+.claude/
