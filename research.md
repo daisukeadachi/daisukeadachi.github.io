@@ -15,7 +15,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 
 
-- [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v4) (joint with Ryo Kambayashi and Kohei Kawaguchi).
+- [Employers' Unilateral Settlement of Dismissal Disputes](https://osf.io/preprints/socarxiv/89xgj_v5) (joint with Ryo Kambayashi and Kohei Kawaguchi).
 
 
 
@@ -37,7 +37,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Selected Publications & Accepted Papers
 
-- [Multinational Enterprises and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (joint with Yukiko U. Saito). *Accepted by the Review of Economics and Statistics*. 
+- [Multinational Enterprises and Corporate Labor Share](./assets/papers/multinational_thaiflood_latest.pdf). (joint with Yukiko U. Saito). *Review of Economics and Statistics*, forthcoming. [https://doi.org/10.1162/REST.a.1685](https://doi.org/10.1162/REST.a.1685)
   - [Slides](./assets/papers/multinational_thaiflood_latest_slides.pdf)
 - Adachi, D. (2025). Elasticity of Substitution between Robots and Workers: Theory and Evidence from Japanese Robot Price Data.  *Journal of Monetary Economics*. 152, 2025, 103782. [https://doi.org/10.1016/j.jmoneco.2025.103782](https://doi.org/10.1016/j.jmoneco.2025.103782)
   - Previously circulated as "Robots and Wage Polarization: The Effects of Robot Capital across Occupations." (Job market paper version)
