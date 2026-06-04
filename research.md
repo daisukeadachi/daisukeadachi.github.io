@@ -19,7 +19,7 @@ description: Published Papers, Working Papers, and Works on Progress
 
 
 
-- [Rails, Risks, and Resilience: A Dynamic Spatial Equilibrium Analysis with Natural Disaster Risk](https://osf.io/preprints/socarxiv/qj9ka_v1).
+- [Rails, Risks, and Resilience: A Dynamic Spatial Equilibrium Analysis with Natural Disaster Risk](https://osf.io/preprints/socarxiv/qj9ka_v2).
 
 ## Work in progress
 
