@@ -23,6 +23,10 @@ description: Published Papers, Working Papers, and Works on Progress
 
 ## Work in progress
 
+- Automation under International Trade (joint with Simon Galle and Fernando Stipanicic)
+
+
+
 - Monopsony in a Two-sided Matching Market (joint with Suk Joon Son and Shintaro Yamaguchi)
 
 
