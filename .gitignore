@@ -3,3 +3,6 @@ tmp/
 
 # Claude Code local settings (machine-specific, may contain secrets)
 .claude/
+
+# macOS Finder metadata
+.DS_Store
